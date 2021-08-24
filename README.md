@@ -2,5 +2,5 @@
 
 Projeto desenvolvido para adicionar comentarios em aplicações ; 
 
-# DESENVOLVIDO POR MAYCON DOUGLAS ROMÃO
+<p><strong>feito por Maycon Douglas</strong><p>
 
