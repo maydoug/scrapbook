@@ -1,4 +1,4 @@
-# CAMPO DE COMENTÁRIOS CRIADO COM (JAVASCRIP, VUE.JS E BOOTSTRAP)
+# CAMPO DE COMENTÁRIOS CRIADO COM (JAVASCRIPT, VUE.JS E BOOTSTRAP)
 
 Projeto desenvolvido para adicionar comentarios em aplicações ; 
 
